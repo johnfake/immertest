@@ -9,9 +9,9 @@ import android.view.View;
 import android.view.WindowManager;
 
 public class ImmersiveMode extends CordovaPlugin {
-    public static final String ACTION_ENABLE_IMMERSIVE = "enableImmersive";
-    public static final String ACTION_ENABLE_IMMERSIVE_STICKY = "enableSticky";
-    public static final String ACTION_IMMERSIVE_DISABLE = "disable";
+    public static final String ACTION_ENABLE_IMMERSIVE = "enableImmersive22";
+    public static final String ACTION_ENABLE_IMMERSIVE_STICKY = "enableSticky22";
+    public static final String ACTION_IMMERSIVE_DISABLE = "disable22";
 
     public boolean execute(final String action, JSONArray args,
             CallbackContext callbackContext) throws JSONException {
